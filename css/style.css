@@ -1,0 +1,65 @@
+body{
+    background-image: url(/img/wedding\ pic.webp);
+}
+#logo{
+    position: absolute;
+    height: auto;
+    left: 0px;
+    width: 39px;
+    margin-top: 25px;
+}
+label.logo{
+    color: black;
+    font-size: 35px;
+    line-height: 80px;
+    margin-left: 40px;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 20px;
+    outline-color: orange;
+    font-weight: bold;
+    float: none;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}
+a.active,a:hover{
+    background: gray;
+}
+#page{
+    float: left;
+}
+form{
+    border: 70px;
+    background-color: grey;
+    float: right;
+    padding: 18px;
+    margin: 0 0;
+}
+
+#button{
+    width: 300px;
+    height: 30px;
+}
+#first{
+    width: 300px;
+}
+#second{
+    width: 300px;
+}
+#third{
+    width: 300px;
+}
+form p{
+    text-align: center;
+    font-size: large;
+}
