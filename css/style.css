@@ -7,12 +7,14 @@ body{
     left: 0px;
     width: 39px;
     margin-top: 25px;
+    padding-left: 25px;
 }
 label.logo{
     color: black;
     font-size: 35px;
     line-height: 80px;
     margin-left: 40px;
+    padding-left: 25px;
 }
 
 nav ul{
@@ -37,6 +39,7 @@ a.active,a:hover{
 }
 #page{
     float: left;
+    padding-left: 25px;
 }
 form{
     border: 70px;
@@ -62,4 +65,7 @@ form{
 form p{
     text-align: center;
     font-size: large;
+}
+#form{
+    padding-right: 80px;
 }
